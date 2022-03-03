@@ -1,5 +1,5 @@
 # 2player-dice
-A simple dice roller for 2 players. Like flipping a coin!
+A simple dice roller for 2 players.
 
 The game lasts five rounds, each "player" takes a turn rolling two six-sided dice. If two of the same value are rolled, a third dice is rolled, and the 
 total is added to the players score.
